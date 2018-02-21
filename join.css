@@ -1,0 +1,33 @@
+@charset"uth-8";
+.naverjoin{
+        width:400px;
+        heightt:auto;
+        border: 1px solid;
+        margin: 0 auto;
+}
+.naverjoin .header{
+        width:100%;
+        height:auto;
+        background: #ccc;
+}
+.naverjoin .contents{
+        width:100%;
+        height:auto;
+        background: #f00;
+}
+.naverjoin .footer{
+        width:100%;
+        height:auto;
+        border: 1px solid;
+
+}
+
+/* naverjoin .header 시작*/
+.naverjoin .header .h1 .logo{
+        line-heoght:170px;
+        text-align:center;
+        font-size:40px;
+        font-family: '돋음'
+}
+
+/* naverjoin .contents 시작*/
